@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hey, nice to see you in my Github 🍀
+I'm Kağan Doğan
+A software developer from Turkey
 
 <!--
 **KaganDogann/KaganDogann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
