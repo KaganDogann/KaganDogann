@@ -4,6 +4,8 @@ A software developer from Turkey
 - 🌱 I’m currently learning .Net Core, Angular
 - 📫 How to reach me: kagandoganx@gmail.com
 - ![](https://komarev.com/ghpvc/?username=KaganDogann)
+
+- Rental Projesi için anlamadığınız bir yer veya karşılaştığınız bir hata varsa Kağan Doğan#1323 Discord ekleyebilirsiniz
 <!--
 **KaganDogann/KaganDogann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
