@@ -1,7 +1,7 @@
 ### Hey, nice to see you in my Github 🍀
 I'm Kağan Doğan
 A software developer from Turkey
-- 🌱 I’m currently learning  React .Net Core, Angular
+- 🌱 I’m currently learning  React, .Net Core, Angular
 - 📫 How to reach me: kagandoganx@gmail.com
 - ![](https://komarev.com/ghpvc/?username=KaganDogann)
 
